@@ -1,9 +1,4 @@
-# SageTech Doom Scroll App   || #SummerofCodeFest'25   ||   #GsoCinnovatorsClub || #GSoCinnovators
-
-
-## presentation link:
-https://www.canva.com/design/DAGkhkKYT8U/b1D-GqPs3mJG3xJNLD2L-A/view?utm_content=DAGkhkKYT8U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc2c740975
-
+# SageTech Doom Scroll App   
 
 ## Application link :
 https://drive.google.com/drive/folders/1VzSD8xm5vhSB5V3hxaWrm6OR7iPofp6e?usp=sharing 
@@ -60,10 +55,5 @@ SageTech values your privacy:
 - Only anonymized, aggregate data is shared with friends when you explicitly enable the social features
 - We never track the content you view, only the physical scrolling distance
 
-## Contributors
-Ikshu Patni 
-Sk Sahil Islam 
-Sheryash Neeraj
-Ansuman Samal
 
 
